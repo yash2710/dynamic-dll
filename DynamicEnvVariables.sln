@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicSetEnvVar", "DynamicSetEnvVar\DynamicSetEnvVar.vcproj", "{F5B6D1D8-4685-4AE0-A779-19463EF4E8EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetEnvLib", "SetEnvLib\SetEnvLib.vcproj", "{FE695D89-BBAE-4536-A9AF-848F7F93CA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B6D1D8-4685-4AE0-A779-19463EF4E8EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5B6D1D8-4685-4AE0-A779-19463EF4E8EE}.Debug|Win32.Build.0 = Debug|Win32
+		{F5B6D1D8-4685-4AE0-A779-19463EF4E8EE}.Release|Win32.ActiveCfg = Release|Win32
+		{F5B6D1D8-4685-4AE0-A779-19463EF4E8EE}.Release|Win32.Build.0 = Release|Win32
+		{FE695D89-BBAE-4536-A9AF-848F7F93CA46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE695D89-BBAE-4536-A9AF-848F7F93CA46}.Debug|Win32.Build.0 = Debug|Win32
+		{FE695D89-BBAE-4536-A9AF-848F7F93CA46}.Release|Win32.ActiveCfg = Release|Win32
+		{FE695D89-BBAE-4536-A9AF-848F7F93CA46}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
